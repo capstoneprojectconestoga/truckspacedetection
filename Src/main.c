@@ -41,7 +41,7 @@ void HD44780_ClrScr(void);
 /*
  * FUNCTION		: MX_NVIC_Init
  *
- * DESCRIPTION 	: This function configure the gpio to give an interrupt signal
+ * DESCRIPTION 	: This function configure the GPIO to give an interrupt signal
  *
  * PARAMETERS	: void
  *
